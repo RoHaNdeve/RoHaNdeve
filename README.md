@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoHaNdeve
-- 👀 I’m interested in ... FRONT END DEVELOPMENT
-- 🌱 I’m currently learning ...HTML,CSS,JAVA SRIPT
+- 👀 I’m interested in ... data science 
+- 🌱 I’m currently learning ...data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
